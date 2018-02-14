@@ -1,13 +1,15 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Startseite"
+description: "Praxis Dres. Mecner"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: de
 url:
 feed:
   path: atom.xml
+
+google_maps_javascript_api_key: "AIzaSyBsXJlPWPbPLbCKwALEk-MldrbQGUPto2g"
 
 # Jekyll configuration
 
@@ -27,7 +29,7 @@ gems:
 # Site owner
 owner:
   name:
-  email:
+  email: info@mecner.de
   twitter:
   google:
     ad-client:
@@ -39,6 +41,7 @@ owner:
 
 include:
   - .htaccess
+  - _pages
 exclude:
   - "*.less"
   - "*.sublime-project"

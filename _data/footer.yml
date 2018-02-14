@@ -1,4 +1,21 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Impressum
+  url: /impressum/
+  excerpt:
+  image:
+
+- title: Sprechzeiten
+  url: /sprechzeiten/
+  excerpt:
+  image:
+
+- title: Anfahrt
+  url: /anfahrt/
+  excerpt:
+  image:
+
+- title: Ärzte
+  url: /praxis/
+  excerpt:
+  image:

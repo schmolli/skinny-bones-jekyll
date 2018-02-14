@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Sprechzeiten
+  url: /sprechzeiten/
   excerpt:
-  image:
+  image: verhuetung1-400x250.jpg
+  
+- title: Frauenheilkunde
+  url: /frauenheilkunde/
+  excerpt:
+  image: krebsvorsorge2-400x250.jpg
+
+- title: Anti-Aging
+  url: /anti-aging/
+  excerpt:
+  image: antiaging5-400x250.jpg
+
+- title: Links
+  url: /links/
+  excerpt:
+  image: antiaging4-400x250.jpg
