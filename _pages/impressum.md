@@ -19,6 +19,8 @@ E-mail: info@mecner.de
 
 Internet: www.mecner.de
 
+Link zur Datenschutzerklärung: <a href="/datenschutz">http://www.mecner.de/datenschutz</a>
+
 
 # Zuständige Kammer:
 
