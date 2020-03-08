@@ -15,5 +15,5 @@ share: false
 |Fr. |08:00 - 14:00 Uhr| 15:00 - 18:00 Uhr|
 |Sa. |**Termine nach Vereinbarung**||
 
-Offene Sprechstunde täglich 60 min zu Beginn der Nachmittagssprechstunde.
-Wir bitten um telefonische Anmeldung; hierbei haben Patientinnen mit Akutproblemen Vorrang.
+* Offene Sprechstunde täglich 60 min zu Beginn der Nachmittagssprechstunde. Wir bitten um telefonische Anmeldung; hierbei haben Patientinnen mit Akutproblemen Vorrang.
+* Als Maßnahme zur Verlangsamung der Covid-Epedemie vergeben wir z. Z. *keine Termine zur Vororge*. Terminvergabe für Schwangere und bei Beschwerden ist unverändert möglich! Anfang April revidieren wir diese Maßnahme je nach Situation.
