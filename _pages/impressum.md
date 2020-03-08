@@ -11,7 +11,7 @@ Bismarkstr. 15
 
 72564 Bad Urach
 
-Telefon: +49 7125 947470
+Telefon: +49 7125 947970
 
 Telefax: +49 7125 1619
 
