@@ -16,4 +16,12 @@ image:
 > Tel.: 07125 - 947970, 
 > Fax: 07125 - 1619
 
-**Bitte beachten Sie:** Als Maßnahme zur Verlangsamung der Covid-Epedemie vergeben wir z. Z. *keine Termine zur Vororge*. Terminvergabe für Schwangere und bei Beschwerden ist unverändert möglich! Anfang April revidieren wir diese Maßnahme je nach Situation.
+**Aktuelle Praxishinweise bezüglich Corona-Pandemie:** 
+
+1. Die Praxis ist **geöffnet**. Beachten Sie bitte die geänderten [**Öffnungszeiten**](/sprechzeiten)!
+2. Verschärfte Hygienemaßnahmen:
+  * Kommen Sie **ohne** Begleitung in die Praxis.
+  * Benützen Sie einen **eigenen Mundschutz** (Atemschutzmaske oder Schal).
+  * Wahren Sie einen Sicherheitsabstand innerhalb der Praxis und berühren Sie so wenig wie möglich.
+3. Rezepte und Überweisungen bitte **telefonisch** vorbestellen. Sie brauchen hierfür nicht in die Praxis kommen.
+4. Wir bitten um Verständnis, dass wir momentan **keine** Ästhetikbehandlungen anbieten können.
