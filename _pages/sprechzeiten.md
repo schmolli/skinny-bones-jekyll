@@ -6,15 +6,15 @@ share: false
 ---
 # Terminvereinbarungen unter: 07125 - 947970
 
-**Neu ab Mittwoch, den 25.03.2020**
+**Neu ab Montag, den 30.03.2020**
 
 |Wochentag|Uhrzeit|
 |---------|-------|	
 |Mo. |10:00 - 18:00 Uhr|
 |Di. |10:00 - 18:00 Uhr|
-|Mi. |08:00 - 13:00 Uhr|
-|Do. |10:00 - 17:00 Uhr|
-|Fr. |08:00 - 13:00 Uhr|
+|Mi. |09:00 - 12:00 Uhr|
+|Do. |10:00 - 18:00 Uhr|
+|Fr. |geschlossen|
 
 **Aktuelle Praxishinweise bezüglich Corona-Pandemie:**  
 
