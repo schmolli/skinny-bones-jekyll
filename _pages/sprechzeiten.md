@@ -20,9 +20,10 @@ share: false
 
 1. Die Praxis ist **geöffnet**.
 2. <span style="color:red">NEU:</span> **[Videosprechstunde](/frauenheilkunde/online/)**!
-3. Verschärfte Hygienemaßnahmen:
+3. **Vorsorgetermine** können für die Zeit nach Ostern **telefonisch** vereinbart werden.
+4. Verschärfte Hygienemaßnahmen:
   * Kommen Sie **ohne** Begleitung in die Praxis.
   * Benützen Sie einen **eigenen Mundschutz** (z.B. Atemschutzmaske oder Schal).
-  * Wahren Sie einen Sicherheitsabstand innerhalb der Praxis und berühren Sie so wenig wie möglich.
-4. Rezepte und Überweisungen bitte **telefonisch** oder per Mail (info@mecner.de) vorbestellen. Sie brauchen zur Abholung nicht in die Praxis kommen, wenn Sie uns einen frankierten Rückumschlag zukommen lassen.
-5. Wir bitten um Verständnis, dass wir momentan **keine** Ästhetikbehandlungen anbieten können.
+  * Wahren Sie einen **Sicherheitsabstand** innerhalb der Praxis und berühren Sie so wenig wie möglich.
+5. Rezepte und Überweisungen bitte **telefonisch** oder **per Mail** (info@mecner.de) vorbestellen. Sie brauchen zur Abholung nicht in die Praxis kommen, wenn Sie uns einen **frankierten Rückumschlag** zukommen lassen.
+6. Wir bitten um Verständnis, dass wir momentan **keine** Ästhetikbehandlungen anbieten können.
