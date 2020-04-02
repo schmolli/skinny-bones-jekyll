@@ -14,7 +14,7 @@ share: false
 |Di. |10:00 - 18:00 Uhr|
 |Mi. |09:00 - 12:00 Uhr|
 |Do. |10:00 - 18:00 Uhr|
-|Fr. |geschlossen|
+|Fr. |10:00 - 12:00 Uhr|
 
 **Aktuelle Praxishinweise bezüglich Corona-Pandemie:**  
 
