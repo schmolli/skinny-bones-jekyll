@@ -25,5 +25,5 @@ image:
   * Kommen Sie **ohne** Begleitung in die Praxis.
   * Benützen Sie einen **eigenen Mundschutz** (z.B. Atemschutzmaske oder Schal).
   * Wahren Sie einen **Sicherheitsabstand** innerhalb der Praxis und berühren Sie so wenig wie möglich.
-5. Rezepte und Überweisungen bitte **telefonisch** oder **per Mail** (info@mecner.de) vorbestellen. Sie brauchen zur Abholung nicht in die Praxis kommen, wenn Sie uns einen **frankierten Rückumschlag** zukommen lassen.
+5. Sie brauchen zur Abholung von Rezepten und Überweisungen nicht in die Praxis zu kommen, wenn Sie uns einen **frankierten Rückumschlag** und Ihre **Versicherungskarte** zukommen lassen.
 6. Wir bitten um Verständnis, dass wir momentan **keine** Ästhetikbehandlungen anbieten können.
