@@ -18,10 +18,9 @@ image:
 
 **Aktuelle Praxishinweise bezüglich Corona-Pandemie:** 
 
-1. Die Praxis ist **geöffnet**. Beachten Sie bitte die geänderten [**Öffnungszeiten**](/sprechzeiten)!
+1. Beachten Sie bitte die geänderten [**Öffnungszeiten**](/sprechzeiten)!
 2. <span style="color:red">NEU:</span> **[Videosprechstunde](frauenheilkunde/online/)**!
-3. **Vorsorgetermine** können für die Zeit nach Ostern **telefonisch** vereinbart werden.
-4. Verschärfte Hygienemaßnahmen:
+3. Verschärfte Hygienemaßnahmen:
   * Kommen Sie **ohne** Begleitung in die Praxis.
   * Benützen Sie einen **eigenen Mundschutz** (z.B. Atemschutzmaske oder Schal).
   * Wahren Sie einen **Sicherheitsabstand** innerhalb der Praxis und berühren Sie so wenig wie möglich.
