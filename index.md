@@ -16,6 +16,10 @@ image:
 > Tel.: 07125 - 947970, 
 > Fax: 07125 - 1619
 
+**<span style="color:red">Urlaub: Die Praxis ist vom 10.08.2020 - 16.08.2020 geschlossen.</span>** 
+
+In dringenden Fällen Vertretung durch Praxis Dr. Schnitzer, Bahnhofstr. 9, 72525 Münsingen Tel.: 07381 / 6316.
+
 **Aktuelle Praxishinweise bezüglich Corona-Pandemie:** 
 
 1. Beachten Sie bitte die geänderten [**Öffnungszeiten**](/sprechzeiten)!
