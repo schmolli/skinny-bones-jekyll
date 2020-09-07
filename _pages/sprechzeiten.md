@@ -6,9 +6,10 @@ share: false
 ---
 # Terminvereinbarungen unter: 07125 - 947970
 
-**<span style="color:red">Urlaub: Die Praxis ist vom 10.08.2020 - 16.08.2020 geschlossen.</span>** 
+**<span style="color:red">Urlaub: Die Praxis ist vom 07.09.2020 - 13.09.2020 geschlossen.</span>** 
 
-In dringenden Fällen Vertretung durch Praxis Dr. Schnitzer, Bahnhofstr. 9, 72525 Münsingen Tel.: 07381 / 6316.
+In dringenden Fällen Vertretung durch Praxis Dr. Schnitzer, Bahnhofstr. 9, 72525 Münsingen Tel.: 07381 / 6316 oder
+die frauenärztliche Praxis Metzingen (Dres. Lorenz, Haile), Bei der Martinskirche 15-17, 72555 Metzingen, Telefon: 07123 - 42877.
 
 |Wochentag|Uhrzeit|
 |---------|-------|	
