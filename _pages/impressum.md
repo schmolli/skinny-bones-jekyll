@@ -15,7 +15,7 @@ Telefon: +49 7125 947970
 
 Telefax: +49 7125 1619
 
-E-mail: info@mecner.de
+E-mail: info@mecner.de (Dr. Jiri Mecner)
 
 Internet: www.mecner.de
 
